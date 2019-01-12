@@ -1,4 +1,4 @@
-# project
+# Braintree + Vue.js
 
 ## Project setup
 ```
