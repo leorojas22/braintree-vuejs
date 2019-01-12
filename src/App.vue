@@ -66,7 +66,6 @@ export default {
             amount: 100,
             nonce: "",
             hostedFieldsInstance: false,
-            paypalInstance: false,
             error: ""
         }
     },
